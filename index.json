@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "sphinx-yaml-config",
+  "versions": [
+    {
+      "commit": "b2339a3cd04f452f6e1bbe9c738ce4361360037d",
+      "tag": "",
+      "parsed_at": "2026-10-15T14:06:51.791897+00:00"
+    }
+  ]
+}
